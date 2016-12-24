@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;PathPlannerTest.java&apos; to &apos;a5-camer249/src/test/java/edu.toronto.csc301.prerequisites&apos;&#x0A;- Original project: &apos;a5-camer249&apos;&#x0A;- Destination element: &apos;a5-camer249/src/test/java/edu.toronto.csc301.prerequisites&apos;&#x0A;- Original element: &apos;edu.toronto.csc301.warehouse.PathPlannerTest.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/test\/java&lt;edu.toronto.csc301.prerequisites" element1="/src\/main\/java&lt;edu.toronto.csc301.warehouse{PathPlannerTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1480292407414" units="1" version="1.0"/>
+</session>
